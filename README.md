@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a restaurant Website<br>💬 Ask me about colloborate for work<br>⚡ Fun fact "Ada Lovelace, the first computer programmer, wrote the first algorithm for Charles Babbage's Analytical Engine in the 1800s."
+🔭 I’m currently working on a restaurant Website<br>💬 Ask me about collaborate for work<br>⚡ Fun fact "Ada Lovelace, the first computer programmer, wrote the first algorithm for Charles Babbage's Analytical Engine in the 1800s."
 
 
 ## 🌐 Socials:
